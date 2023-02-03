@@ -1,0 +1,19 @@
+{
+  "name": "animated-dots",
+  "version": "1.0.0",
+  "description": "animation for some sort of dots using typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedtaaw/animated-dots.git"
+  },
+  "author": "ahmed tawfik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedtaaw/animated-dots/issues"
+  },
+  "homepage": "https://github.com/ahmedtaaw/animated-dots#readme"
+}
